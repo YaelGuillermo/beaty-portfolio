@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "feather:code",
+    "name": "Personalización",
+    "content": "Ofrecemos tratamientos personalizados para satisfacer las necesidades únicas de cada cliente."
+  },
+  {
+    "icon": "feather:users",
+    "name": "Atención al Cliente",
+    "content": "Nuestro equipo está dedicado a proporcionar la mejor atención al cliente, asegurando una experiencia relajante y satisfactoria."
+  },
+  {
+    "icon": "feather:search",
+    "name": "Ambiente Relajante",
+    "content": "Creamos un ambiente tranquilo y relajante, ideal para desconectar y rejuvenecer."
+  },
+  {
+    "icon": "feather:trending-up",
+    "name": "Resultados Garantizados",
+    "content": "Nuestros tratamientos están diseñados para ofrecer resultados visibles y duraderos."
+  },
+  {
+    "icon": "feather:smartphone",
+    "name": "Tecnología Avanzada",
+    "content": "Utilizamos tecnología avanzada en todos nuestros tratamientos para garantizar la máxima eficacia."
+  },
+  {
+    "icon": "feather:home",
+    "name": "Comodidad y Confort",
+    "content": "Nuestras instalaciones están equipadas para ofrecer la máxima comodidad y confort durante tu visita."
+  }
+]

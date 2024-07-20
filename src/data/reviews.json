@@ -1,0 +1,28 @@
+[
+  {
+    "name": "John Doe",
+    "content": "¡Increíble servicio! Mi piel nunca se había sentido tan suave.",
+    "avatar": "/assets/avatar-1.jpeg",
+    "active": true
+  },
+  {
+    "name": "Christian Jones",
+    "content": "¡Increíble servicio! Mi piel nunca se había sentido tan suave.",
+    "avatar": "/assets/avatar-2.jpeg"
+  },
+  {
+    "name": "Clarence Robinson",
+    "content": "¡Increíble servicio! Mi piel nunca se había sentido tan suave.",
+    "avatar": "/assets/avatar-3.jpeg"
+  },
+  {
+    "name": "Kathleen Alday",
+    "content": "¡Increíble servicio! Mi piel nunca se había sentido tan suave.",
+    "avatar": "/assets/avatar-4.jpeg"
+  },
+  {
+    "name": "Tina Givens",
+    "content": "¡Increíble servicio! Mi piel nunca se había sentido tan suave.",
+    "avatar": "/assets/avatar-5.jpeg"
+  }
+]
